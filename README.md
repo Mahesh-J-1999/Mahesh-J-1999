@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahesh-J-1999
+- 👋 Hi, I’m Mahesh
 - 👀 I’m interested in Fullstack
 - 🌱 I’m currently learning Fullstack
 - 📫 How to reach me varunmahi777@gmail.com
